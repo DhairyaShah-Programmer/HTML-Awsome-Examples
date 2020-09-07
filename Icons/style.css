@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@700&display=swap');
+body{
+    background-color: black;
+}
+.header{
+    font-family: 'Grandstander', cursive;
+    text-decoration: underline;
+    text-align: center;    
+    color:white;
+}
+.icon-panel{
+    background-color: white;
+    font-size: 40px;
+    word-spacing: 100px;    
+    color: #262626;
+}
